@@ -89,8 +89,7 @@ size = 9000000000
 size = 20343818
 
 [table.strong]
-expected = 14810011
-size = 1629101
+buckets = 14810011
 
 [table.candidate]
 buckets = 150001

@@ -90,8 +90,7 @@ size = 0
 size = 0
 
 [table.strong]
-expected = 100000
-size = 0
+buckets = 100000
 
 [table.candidate]
 buckets = 10001
